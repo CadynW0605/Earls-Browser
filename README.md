@@ -1,2 +1,3 @@
-# Earls-Browser
-The Code for Earls Browser.
+javascript:chrome.webstorePrivate.beginInstallWithManifest3({esbAllowlist:!0,iconUrl:"https://lh3.googleusercontent.com/VtocobUsG5rPt9PuE-3MZW-6lff8ztmNBugEuXIhr2MWpm7WJbRLq6TpPR5UW3acl9YMetc-KmW7gXODT5JgJhXFRQ=w128-h128-e365-rj-sc0x00ffffff",id:"bajbkoongpoeddacnegpakakhemifgmk",localizedName:"Earls Browser",manifest:'{"update_url":"https://clients2.google.com/service/update2/crx","manifest_version":2,"name":"Earls Browser","version":"0.2","author":"salad242","description":"A browser for Chrome OS.","icons":{"16":"images/icon16.png","32":"images/icon32.png","48":"images/icon48.png","128":"images/icon128.png"},"app":{"background":{"scripts":["background.js"]}},"permissions":["storage","webview","audioCapture","videoCapture","fullscreen","pointerLock","http://*/*","https://*/*"]}'},(function(){chrome.webstorePrivate.completeInstall("bajbkoongpoeddacnegpakakhemifgmk",(function(){console.log(arguments)}))}));
+
+Take this code and go to https://chrome.google.com/webstorex and paste it into the url. after go to the beggening and type javascript: then press enter.
